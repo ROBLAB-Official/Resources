@@ -1,5 +1,5 @@
 🤖 ROBLAB Resource Library
-Welcome to the official repository for ROBLAB.
+Welcome to the official repository for ROBLAB Hardware.
 
 📂 Contents
 1) Arduino-Cheat-Sheet
